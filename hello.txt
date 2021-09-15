@@ -1,5 +1,5 @@
-Hello atguigu! 222222
-Hello atguigu! 333333
+Hello atguigu! 222
+Hello atguigu! 333
 Hello atguigu!
 Hello atguigu!
 Hello atguigu!
